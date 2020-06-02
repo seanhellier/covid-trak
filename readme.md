@@ -15,17 +15,17 @@ After establishing the repository on your computer, run the software by entering
 ## Built With
 
 * [Elemental-UI]    (http://elemental-ui.com/) - The CSS framework used for the skin
-* [Javascript]      (https://www.javascript.com/) - Used for responsive navbar operation
+* [Javascript]      (https://www.javascript.com/) - Used for functionality
 * [React]           (https://reactjs.org/) - Used for functionality
 * 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/seanhellier/slh_portfolio/blob/master/contributing.md) for details on my code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/seanhellier/covid-trak/blob/master/contributing.md) for details on my code of conduct, and the process for submitting pull requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+[SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
