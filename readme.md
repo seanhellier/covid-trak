@@ -1,16 +1,25 @@
 # COVID-Trak
 
-An API-derived up to date tracking of numbers of infected, recovered, and dead of COVID-19, globally and by country.
+An API-derived React app providing up to date numbers of infected, recovered, and dead of COVID-19, globally and by country.
+
+### Prerequisites
+
+* [Node]            (https://nodejs.org/) - Node Package Manager
 
 ## Getting Started
 
 To use this software, either clone or download and extract the files to a location of your choosing on your computer. To clone the repository, copy the clone link, open a terminal window and enter "git clone (repository link)"
 
-After establishing the repository on your computer, run the software by entering "npm start" in a terminal window.
 
-### Prerequisites
+After establishing the repository on your computer, open a terminal and enter "npm start" to install dependencies.
 
-* [Node]            (https://nodejs.org/) - Node Package Manager
+Run the software by entering "npm start" in a terminal window.
+
+### Use
+to use the application, choose the country one wishes to see the current numbers of infected, recovered, and deaths from the drop down or choose "Global" to see the world totals.
+
+
+
 
 ## Built With
 
@@ -33,19 +42,11 @@ Please read [CONTRIBUTING.md](https://github.com/seanhellier/covid-trak/blob/mas
                                         * [Website](http://www.seanhellier.com)
                                         * [Github](https://github.com/seanhellier/slh_portfolio)
 
-## Contributors
-
-* **Tony Ho** - *Initial work* -
-                                        * [Portfolio](https://ho-tonym.github.io/portfolio/)
-                                        * [Github](https://github.com/ho-tonym)
-* **Daniel Mayer** - *Initial work* -
-                                        * [Portfolio](https://danmayer218.github.io/Daniel-Mayer-Designer-Developer/)
-                                        * [Github](https://github.com/DanMayer218)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Deployment
 
-* A big shoutout to Tony Ho and Daniel Mayer for their kind help getting this site built and working. You're both awesome, dudes
+[Heroku]  (https://covid-trak.herokuapp.com/)
+[Github]  (https://github.com/seanhellier/covid-trak)
